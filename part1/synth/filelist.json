@@ -1,0 +1,6 @@
+{
+    "top": "counter",
+    "files":
+    ["part1/synth/counter.sv"
+    ]
+}
