@@ -1,3 +1,4 @@
-# Lab Assignment 1
-Click `Code` > `Codespaces` > `Create codespace on main` to start coding!
+# Structural Verilog
+
+I examined waveform and schematic outputs to identify functional bugs in a provided counter circuit, learning to interpret signal timing and synthesis results. In the combinational design section, I implemented logic modules such as XOR, XNOR, MUX, half adder, full adder, and a parameterized ripple-carry adder using only structural SystemVerilog and basic NAND gates, validating them through simulation and synthesis. Finally, I built and tested sequential modules—including a shift register, counter, and 11-bit linear feedback shift register (LFSR)—and demonstrated my working designs on the FPGA board by displaying pseudo-random numbers on the seven-segment display. This lab strengthened my understanding of hardware description, hierarchical module design, and FPGA-based digital system implementation.
 
