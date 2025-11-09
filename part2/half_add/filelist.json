@@ -1,0 +1,11 @@
+{
+    "top": "half_add",
+    "_comment": "You may add other modules that you create",
+    "files":
+    ["part2/half_add/half_add.sv",
+     "provided/nand2.sv",
+     "part2/xor2/xor2.sv",
+     "provided/nmosfet.sv",
+     "provided/pmosfet.sv"
+    ]
+}

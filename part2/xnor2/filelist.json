@@ -1,0 +1,7 @@
+{
+    "top": "xnor2",
+    "files":
+    ["part2/xnor2/xnor2.sv",
+     "provided/nand2.sv"
+    ]
+}

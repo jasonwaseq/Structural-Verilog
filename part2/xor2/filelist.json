@@ -1,0 +1,9 @@
+{
+    "top": "xor2",
+    "files":
+    ["part2/xor2/xor2.sv",
+     "provided/nand2.sv",
+     "provided/pmosfet.sv",
+     "provided/nmosfet.sv"
+    ]
+}
