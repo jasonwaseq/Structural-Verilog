@@ -1,0 +1,17 @@
+{
+    "top": "counter",
+    "_comment": "You may add other modules that you create",
+    "files":
+    ["part3/counter/counter.sv",
+     "provided/nand2.sv",
+     "provided/dff.sv",
+     "provided/pmosfet.sv",
+     "provided/nmosfet.sv",
+     "part2/xor2/xor2.sv",
+     "part2/xnor2/xnor2.sv",
+     "part2/mux2/mux2.sv",
+     "part2/half_add/half_add.sv",
+     "part2/full_add/full_add.sv",
+     "part2/adder/adder.sv"
+    ]
+}
